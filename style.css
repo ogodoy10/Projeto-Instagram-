@@ -1,0 +1,100 @@
+html{
+    margin: 0;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+   margin: 0;
+   width: 100%;
+   height: 100%;
+   padding: 0;
+}
+
+#imagem{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+}
+
+
+p{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0;
+    padding: 160px 0 0 40%;
+}
+
+p img{
+    width: 25px;
+    height: 25px;
+    margin: 15px 0 0 10%;
+}
+
+#direct{
+    width: 25px;
+    height: 25px;
+    margin: 15px 0 0 30px;
+}
+
+.story{
+    display: flex;
+    height: 85px;
+}
+
+.story img{
+    border: 2px solid blueviolet;
+    border-radius: 50%;
+    width: 90px;
+    height: 80px;
+    padding: 3px;
+    margin: 10px 0 0 745px;
+}
+
+.story2 img{
+    border: 2px solid blueviolet;
+    border-radius: 50%;
+    width: 90px;
+    height: 80px;
+    padding: 3px;
+    margin: 10px 0 0 10px;
+}
+
+.story3 img{
+    border: 2px solid blueviolet;
+    border-radius: 50%;
+    width: 90px;
+    height: 80px;
+    padding: 3px;
+    margin: 10px 0 0 10px;
+}
+
+.story4 img{
+    border: 2px solid blueviolet;
+    border-radius: 50%;
+    width: 90px;
+    height: 80px;
+    padding: 3px;
+    margin: 10px 0 0 10px;
+
+}
+
+#post{
+    width: 390px;
+    height: 450px;
+    margin: 0 0 0 744px;
+}
+
+footer{
+    margin: 0 0 0 740px;
+    height: 0;
+}
+
+footer img{
+    width: 398px;
+    height: 30px;
+    border-radius: 5px;
+}
